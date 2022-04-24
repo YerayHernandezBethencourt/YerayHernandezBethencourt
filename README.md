@@ -1,15 +1,14 @@
-Hi 👋 My name is Yeray Hernandez
+👋Hello, my name is Yeray Hernandez
 ================================
 
-Cross-Platform Application Developer
+Full-stack developer
 ------------------------------------
 
 I'm finishing the technical training of cross-platform application development. I'm interested in software development and IoT. I do like to think of new projects where technology and innovation are the core.
 
 * 🌍  I'm based in Canary Islands, Spain
-* ✉️  You can contact me at [yerayhernandezbethencourt@gmail.com](mailto:yerayhernandezbethencourt@gmail.com)
 * 🧠  I'm learning Spring for Java
-* 🤝  I'm open to collaborating on software or IoT projects.
+* 🤝  I'm open to collaborating in any project I like
 
 ### Skills
 
@@ -26,3 +25,4 @@ I'm finishing the technical training of cross-platform application development. 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/YerayHernandezBethencourt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yeray-hernandez-bethencourt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+✉️  You can contact me at yerayhernandezbethencourt@gmail.com
