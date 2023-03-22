@@ -8,7 +8,7 @@ I'm finishing the technical training of cross-platform application development. 
 
 * 🌍  I'm based in Canary Islands, Spain
 * 🧠  I'm learning Spring for Java
-* 🤝  I'm open to collaborating in any project I like
+* 🤝  I'm open to collaborating in open source projects
 
 ### Skills
 
