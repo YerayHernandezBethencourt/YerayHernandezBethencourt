@@ -1,10 +1,22 @@
-👋Hello, my name is Yeray Hernandez
+👋Hello everyone!, my name is Yeray Hernandez
 ================================
 
 Full-stack developer
 ------------------------------------
 
-I'm finishing the technical training of cross-platform application development. I'm interested in software development and IoT. I do like to think of new projects where technology and innovation are the core.
+😉 I'm Yeray Hernández, a technology enthusiast and a passionate advocate of creativity and organization. Always seeking new challenges and innovative solutions, my goal is to leverage my expertise in Multiplatform Application Development to drive innovation and progress in the tech world.
+
+💻 As a developer, my focus lies in continuous learning and exploring creative solutions. I strongly believe in collaboration and the exchange of ideas as the engines for technological advancement.
+
+🚀 Currently, I'm working on my Startup project, aiming to revolutionize the business landscape with cutting-edge and transformative solutions. Moreover, I firmly believe that technology should be a vehicle for positive change, and my vision is to utilize it to enhance people's lives and facilitate business growth.
+
+🤝 I'm always interested in collaboration opportunities, tech discussions, or exciting projects that challenge my skills and allow me to make a difference. Feel free to reach out if you share similar interests or simply want to connect.
+
+Thanks for visiting my GitHub profile! I look forward to contributing and learning alongside this wonderful community.
+
+Greetings! 🌟
+
+Yeray Hernández
 
 * 🌍  I'm based in Canary Islands, Spain
 * 🧠  I'm learning Spring for Java
