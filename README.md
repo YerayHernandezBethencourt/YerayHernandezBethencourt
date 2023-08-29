@@ -4,11 +4,11 @@
 Full-stack developer
 ------------------------------------
 
-😉 I'm Yeray Hernández, a technology enthusiast and a passionate advocate of creativity and organization. Always seeking new challenges and innovative solutions, my goal is to leverage my expertise in Multiplatform Application Development to drive innovation and progress in the tech world.
+😉 I'm Yeray Hernández, a technology enthusiast and a passionate advocate of creativity and organization. Always seeking new challenges and innovative solutions, my goal is to leverage my expertise in Multiplatform Application Development  with my business vision to drive innovation and progress in the tech world.
 
-💻 As a developer, my focus lies in continuous learning and exploring creative solutions. I strongly believe in collaboration and the exchange of ideas as the engines for technological advancement.
+💻 As a developer, my focus lies in continuous learning and exploring new solutions. I strongly believe in collaboration and the exchange of ideas as the engines for technological advancement.
 
-🚀 Currently, I'm working on my Startup project, aiming to revolutionize the business landscape with cutting-edge and transformative solutions. Moreover, I firmly believe that technology should be a vehicle for positive change, and my vision is to utilize it to enhance people's lives and facilitate business growth.
+🚀 Currently, I'm working on my Startup project. I firmly believe that technology should be a vehicle for positive changes, and my mission is to use it to enhance people's lives and facilitate business growth.
 
 🤝 I'm always interested in collaboration opportunities, tech discussions, or exciting projects that challenge my skills and allow me to make a difference. Feel free to reach out if you share similar interests or simply want to connect.
 
@@ -19,7 +19,7 @@ Greetings! 🌟
 Yeray Hernández
 
 * 🌍  I'm based in Canary Islands, Spain
-* 🧠  I'm learning Spring for Java
+* 🧠  I'm learning JavaScript 
 * 🤝  I'm open to collaborating in open source projects
 
 ### Skills
