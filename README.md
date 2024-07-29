@@ -1,14 +1,14 @@
 👋Hello everyone!, my name is Yeray Hernandez
 ================================
 
-Full-stack developer
+**Full-Stack Developer AI specialized**
 ------------------------------------
 
-😉 I'm Yeray Hernández, a technology enthusiast and a passionate advocate of creativity and organization. Always seeking new challenges and innovative solutions, my goal is to leverage my expertise in Multiplatform Application Development  with my business vision to drive innovation and progress in the tech world.
+😉 I am a junior **Full Stack Developer specialized in Artificial Intelligence Solutions**. My passion is driving progress through creative solutions, which led me to develop my own AI-based startup. I am always seeking new challenges and opportunities to apply my knowledge and creativity.
 
 💻 As a developer, my focus lies in continuous learning and exploring new solutions. I strongly believe in collaboration and the exchange of ideas as the engines for technological advancement.
 
-🚀 Currently, I'm working on my Startup project. I firmly believe that technology should be a vehicle for positive changes, and my mission is to use it to enhance people's lives and facilitate business growth.
+🚀  I have recently completed a Bootcamp in **AI Solution Development**. I firmly believe that technology should be a vehicle for positive change, and my mission is to use it to enhance people's lives and facilitate business growth.
 
 🤝 I'm always interested in collaboration opportunities, tech discussions, or exciting projects that challenge my skills and allow me to make a difference. Feel free to reach out if you share similar interests or simply want to connect.
 
@@ -19,7 +19,7 @@ Greetings! 🌟
 Yeray Hernández
 
 * 🌍  I'm based in Canary Islands, Spain
-* 🧠  I'm learning JavaScript 
+* 🧠  I'm learning about AI Solution Development
 * 🤝  I'm open to collaborating in open source projects
 
 ### Skills
