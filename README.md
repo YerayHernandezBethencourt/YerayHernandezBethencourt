@@ -1,7 +1,7 @@
 👋Hello everyone!, my name is Yeray Hernandez
 ================================
 
-**Full-Stack Developer AI specialized**
+**Data Scientist AI specialized**
 ------------------------------------
 
 😉 I am a junior **Data Scientitst specialized in Artificial Intelligence Solutions**. My passion is driving progress through creative solutions, which led me to develop my own AI-based startup. I am always seeking new challenges and opportunities to apply my knowledge and creativity.
