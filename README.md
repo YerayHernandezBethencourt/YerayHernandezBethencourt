@@ -20,7 +20,7 @@ Yeray Hernández
 
 * 🌍  I'm based in Canary Islands, Spain
 * 🧠  I'm learning about AI Solution Development
-* 🤝  I'm open to collaborating in open source projects
+* 🤝  I'm ready to do my best
 
 ### Skills
 
