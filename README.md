@@ -4,7 +4,7 @@
 **Full-Stack Developer AI specialized**
 ------------------------------------
 
-😉 I am a junior **Full Stack Developer specialized in Artificial Intelligence Solutions**. My passion is driving progress through creative solutions, which led me to develop my own AI-based startup. I am always seeking new challenges and opportunities to apply my knowledge and creativity.
+😉 I am a junior **Data Scientitst specialized in Artificial Intelligence Solutions**. My passion is driving progress through creative solutions, which led me to develop my own AI-based startup. I am always seeking new challenges and opportunities to apply my knowledge and creativity.
 
 💻 As a developer, my focus lies in continuous learning and exploring new solutions. I strongly believe in collaboration and the exchange of ideas as the engines for technological advancement.
 
