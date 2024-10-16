@@ -39,4 +39,4 @@ Yeray Hernández
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/YerayHernandezBethencourt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yeray-hernandez-bethencourt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-✉️  You can contact me at yera_hb@hotmail.es
+✉️  You can contact me at <a href="mailto:yera_hb@hotmail.es">yera_hb@hotmail.es</a>
