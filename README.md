@@ -10,6 +10,8 @@
 
 🚀  I have recently completed a Bootcamp in **AI Solution Development**. I firmly believe that technology should be a vehicle for positive change, and my mission is to use it to enhance people's lives and facilitate business growth.
 
+📘 I'm currently diving deep into the field of Computer Vision, an area that truly excites me and one I see a lot of potential in. I'm motivated to apply this knowledge to projects that merge technology with creativity, constantly exploring new solutions and challenging myself to keep learning more.
+
 🤝 I'm always interested in collaboration opportunities, tech discussions, or exciting projects that challenge my skills and allow me to make a difference. Feel free to reach out if you share similar interests or simply want to connect.
 
 Thanks for visiting my GitHub profile! I look forward to contributing and learning alongside this wonderful community.
